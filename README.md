@@ -4,7 +4,8 @@
 val CommanderTvis = `бездельник` {
     about {
         name = "Iaroslav Postovalov"
-        goes to (lyceum(130) `in` Novosibirsk)
+        university = MSU(branch = Cities.Yerevan)
+        job = JetBrains(role = SoftwareDeveloper)
     }
 
     tech(mostFrequentlyUsed = "Kotlin")
