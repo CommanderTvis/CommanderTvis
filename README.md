@@ -1,10 +1,17 @@
 ### Iaroslav Postovalov
 
 ```kotlin
-val CommanderTvis = `бездельник` { // slacker
+import `personality-types`.lazybones
+import universities.germany.ConstructorUniversity
+import companies.international.JetBrains
+import technologies.*
+import occupations.*
+
+val CommanderTvis = lazybones {
     about {
         name = "Iaroslav Postovalov"
-        job = JetBrains(role = SoftwareDeveloper, location = Armenia.Yerevan, employmentType = FullTime)
+        job = JetBrains(role = SoftwareDeveloper, location = Germany.Bremen, employmentType = PartTime)
+        study = ConstructorUniversity
     }
 
     tech(
