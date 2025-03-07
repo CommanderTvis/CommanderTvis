@@ -1,18 +1,6 @@
 ### Iaroslav Postovalov
 
 ```kotlin
-import `personality-types`.lazybones
-import universities.germany.ConstructorUniversity
-import universities.russia.MoscowStateUniversity
-import companies.international.JetBrains
-import companies.international.MiLaboratories
-import companies.research.JetBrainsResearch
-import companies.research.MIPT
-import technologies.*
-import occupations.*
-import honors.NationalTechnologyOlympiad
-import timeline.Period
-
 val CommanderTvis = lazybones {
     about {
         name = "Iaroslav Postovalov"
