@@ -13,7 +13,7 @@ val CommanderTvis = lazybones {
     }
     
     workExperience {
-        job { // New job added here
+        job {
             company = ChromaWay
             role = SoftwareEngineer
             employmentType = FullTime
