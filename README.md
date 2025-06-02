@@ -67,8 +67,8 @@ val CommanderTvis = lazybones {
     education {
         degree {
             university = ConstructorUniversity
-            program = "BSc in Software, Data and Technology"
-            period = Period("Sep 2023", "Jun 2026")
+            program = "BSc in ComputerScience"
+            period = Period("Sep 2023", "Jun 2027")
         }
         
         degree {
