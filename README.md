@@ -87,7 +87,11 @@ val CommanderTvis = lazybones {
     }
     
     tech(
-        core = listOf(Kotlin, Compilers, JVM),
+        core = listOf(
+            Kotlin,
+            Compilers,
+            JVM,
+        )
 
         proficient = listOf(
             Java,
@@ -96,7 +100,7 @@ val CommanderTvis = lazybones {
             Git,
             Python,
             LibraryDevelopment,
-            SoftwareDevelopment
+            SoftwareDevelopment,
         )
     )
 }
