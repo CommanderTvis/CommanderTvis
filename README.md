@@ -4,7 +4,7 @@
 val CommanderTvis = lazybones {
     about {
         name = "Iaroslav Postovalov"
-        location = Germany.Bremen
+        location = Germany.Celle
         contacts {
             email = "postovalovya@gmail.com"
             linkedin = "linkedin.com/in/iaroslav-postovalov"
