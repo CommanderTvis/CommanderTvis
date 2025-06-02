@@ -13,6 +13,16 @@ val CommanderTvis = lazybones {
     }
     
     workExperience {
+        job { // New job added here
+            company = ChromaWay
+            role = SoftwareEngineer
+            employmentType = FullTime
+            period = Period("Apr 2025", Period.Present)
+            accomplishments = listOf(
+                "Contributor to Rell (https://gitlab.com/chromaway/rell) language for distributed app programming."
+            )
+        }
+
         job {
             company = JetBrains
             role = SoftwareDeveloper
